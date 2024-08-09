@@ -1,8 +1,9 @@
-I am writing a series of libraries for three.js vanilla, published in the `three.ez` organization, in order to create high-performance applications more easily.
+<img align="center" src="banner.png" />
+
+Hi there 👋
+
+I'm currently working on some libraries for ***three.js vanilla***, published under the `three.ez` organization, in order to more easily create high-performance applications.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=agargaro&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agargaro&langs_count=2&hide_title=true&hide_border=true" />
 </a>
